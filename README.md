@@ -6,3 +6,6 @@
 ### 5. Pltly - Dynamic Analysis and Visualization
 ### 6. Datetime - For Date and time
 ### 7. Warnings - Used to supress unnecessary warnings
+### 8. Scipy - For Scietific calculation
+### 10. re - For Regular Expression : mostly used for pattern matching
+### 11. Scikit-Learn - Machine Learning
